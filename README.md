@@ -9,4 +9,4 @@ if you are unable to install refer to the below website
 ---->https://www.npmjs.com/  .!-> here you can type the above mentioned dependencies and install them on your node js enviroment <-!
 you are all set to go
 type " npm run start" to run your programme
-to check the backend data you can refer to "http://localhost:8000/results" site
+to check the backend data you can refer to "http://localhost:8000/results" site .
