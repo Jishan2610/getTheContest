@@ -10,3 +10,10 @@ if you are unable to install refer to the below website
 you are all set to go
 type " npm run start" to run your programme
 to check the backend data you can refer to "http://localhost:8000/results" site .
+
+
+
+
+
+CHECK THE VIEW OF THE SITE
+https://drive.google.com/file/d/1HYzL-gH15K6U4ELnLJ-iDKNjAi_w-6lg/view?usp=sharing
